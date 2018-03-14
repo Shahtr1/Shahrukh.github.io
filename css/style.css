@@ -1,3 +1,8 @@
+   .container .jumbotron{
+   	background: url('../images/Restaurant large img.jpg')no-repeat;
+   	height: 405px;
+   }
+
 body{
 	font-size: 16px;
 	color:#fff;
