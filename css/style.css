@@ -381,6 +381,10 @@ h3.menu-item-title{
 
 }
 
+.silex-runtime .website-min-width {
+    min-width: 0;
+}
+
 
 
 
