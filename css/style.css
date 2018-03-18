@@ -1,4 +1,8 @@
 
+
+.silex-runtime .website-min-width {
+    min-width: 0;
+}
 body{
 	font-size: 16px;
 	color:#fff;
@@ -381,9 +385,6 @@ h3.menu-item-title{
 
 }
 
-.silex-runtime .website-min-width {
-    min-width: 0;
-}
 
 
 
